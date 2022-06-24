@@ -12,8 +12,9 @@ package midtermexam_versiona_extensioncode;
  * Students are reminded to add themselves as modifiers when editing the
  * code.
  * @author dancye, 2019
+ * modified by Mark van Huuksloot for Test 1 2022
  */
-public class UserProfile 
+public class TestUserProfile 
 {
     
     private String userID;//the userID
